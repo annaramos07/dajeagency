@@ -50,11 +50,13 @@ body{
 }
 
 .btn-app{
-	background-color: #20BFD0;
+	background-color: #FBD050;
 	color: #000 !important;
 	border-radius: 100px;
 	font-weight:100;
-	border-color: #20BFD0;
+	border-color: #FBD050;
+	
+	
 }
 
 #services{
@@ -98,6 +100,10 @@ body{
 
 }
 
+#formulario{
+	color: #fff;
+}
+
 #formulario h6{
 	font-size: 14px;
 	color: #fff;
@@ -126,7 +132,7 @@ footer .fab{
 }
 
 .btn-rectangulo:hover{
-	background-color: #FEF281;
+	background-color: #FBD050;
 	color: #000;
 }
 
@@ -188,12 +194,12 @@ footer .fab{
 }
 
 #trusted{
-	padding: 5%;
+	padding: 5% 0;
 }
 
 #trusted h1{
 	text-align: center;
-	padding-bottom: 1%;
+	padding-bottom: 3%;
 	
 }
 
@@ -210,3 +216,12 @@ footer .fab{
 .nums{
 	text-align: center;
 }
+
+#trusted i{
+	color:#FBD050;
+	font-size: 50px;
+	padding-bottom: 5%;
+	
+}
+
+
