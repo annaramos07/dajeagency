@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,600,700');
+
+body{
+	color: #000;
+	background-color: #fff;
+	font-family: Raleway !important;
+}
+
+.header-area.sticky {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+	width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+}
+.header-area.sticky {
+	background-color: #fff !important;
+}
+
+.header-area.sticky .nav-link {
+	color: #2c3142;
+	
+}
+
+.header-area.sticky .active .nav-link{
+	color:#2c3142;
+}
+
+
+.header-area.sticky .nav-link:hover::after {
+	background-color: #2c3142;
+}
+
+
+.header-area.sticky .nav-link:hover{
+	color:#2c3142;
+}
+
+.header-area.sticky .active .nav-link:hover{
+	color:#2c3142;
+}
+
+.header-area.sticky .navbar-brand .d-block{
+	display: none !important;
+}
+
+.header-area.sticky .navbar-brand .d-none{
+	display: block !important;
+}
+
+.btn-app{
+	background-color: #20BFD0;
+	color: #000 !important;
+	border-radius: 100px;
+	font-weight:100;
+	border-color: #20BFD0;
+}
+
+#services{
+	padding-top: 10%;
+	postion: relative;
+	background-color: #fff;
+	color: #000;
+	
+	
+}
+
+#services h1{
+	text-align: center;
+}
+
+#slides h1{
+	color: #fff;
+	font-size: 50px;
+}
+
+#slides p{
+	color:#fff;
+}
+
+
+.btn-app:hover{
+	background-color: #fff;
+	border-color: #fff;
+	text-decoration: none;
+}
+
+#formulario{
+	padding: 3% 0;
+	background-color: #20BFD0;
+	
+	}
+
+#formulario h2{
+	font-size: 30px;
+	color: #fff;
+
+}
+
+#formulario h6{
+	font-size: 14px;
+	color: #fff;
+}
+
+.join{
+	padding-left: 5%;
+}
+
+footer{
+	padding: 3% 0;
+	text-align: center;
+}
+
+footer .fab{
+	width: 60px;
+	height: 30px;
+	color:#20BFD0;
+	font-size: 25px;
+}
+
+.btn-rectangulo{
+	color:#000000;
+	background-color: #FFFFFF;
+	border-bottom-color: transparent;
+}
+
+.btn-rectangulo:hover{
+	background-color: #FEF281;
+	color: #000;
+}
+
+#services span{
+	color: #20BFD0;
+	font-weight:bolder;
+}
+
+#services li{
+	font-size: 20px;
+}
+
+#services img{
+	width: 70%;
+	margin-left: 7%;
+}
+
+#services{
+	padding-top: 10%;
+	padding-bottom: 5%;
+}
+
+#services h1{
+	padding-bottom: 1%;
+	font-weight: bolder;
+	text-decoration:underline;
+	
+	
+}
+
+#our{
+	color: #FFFFFF;
+	background-color: #20BFD0;
+	
+
+
+}
