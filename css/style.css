@@ -136,17 +136,13 @@ footer .fab{
 }
 
 #services li{
-	font-size: 20px;
+	font-size: 28px;
+	padding-top: 5%;
 }
 
-#services img{
-	width: 70%;
-	margin-left: 7%;
-}
 
 #services{
-	padding-top: 10%;
-	padding-bottom: 5%;
+	padding: 5% 0;
 }
 
 #services h1{
@@ -159,16 +155,58 @@ footer .fab{
 
 #our{
 	color: #FFFFFF;
-	background-color: #20BFD0;
-	padding-top: 11%;
+	background-color: #12BAD3;
+	padding-top: 1%;
 	padding-bottom: 1%;
 	text-align: center;
 	font-weight:bolder;
 	
-	
-	
-	
-
-
 }
 
+#home{
+	padding-top: 10%;
+	padding-bottom: 1%;
+	postion: relative;
+	background-color: #18B5C6;
+	color: #ffff;
+	
+}
+
+.hire{
+	padding-top: 10%;
+	color: #fff;
+	padding-left: 10%;
+}
+
+.hire h1{
+	font-weight:700;
+}
+
+#home h1{
+	font-size:60px;
+	font-weight: 500;
+}
+
+#trusted{
+	padding: 5%;
+}
+
+#trusted h1{
+	text-align: center;
+	padding-bottom: 1%;
+	
+}
+
+#trusted h3{
+	color:#20BFD0;
+	font-weight: bolder;
+	font-size: 40px;
+}
+
+#trusted h6{
+	font-size: 30px;
+}
+
+.nums{
+	text-align: center;
+}
