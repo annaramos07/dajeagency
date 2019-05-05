@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,400,600,700');
 
 body{
-	color: #000;
-	background-color: #fff;
+	color: #474747;
+	background-color: #FCF777;
 	font-family: Raleway !important;
 }
 
@@ -50,11 +50,11 @@ body{
 }
 
 .btn-app{
-	background-color: #FBD050;
+	background-color: #FCF777;
 	color: #000 !important;
 	border-radius: 100px;
 	font-weight:100;
-	border-color: #FBD050;
+	border-color: #FCF777;
 	
 	
 }
@@ -62,8 +62,8 @@ body{
 #services{
 	padding-top: 10%;
 	postion: relative;
-	background-color: #fff;
-	color: #000;
+	background-color: #FCF777;
+	color: #474747;
 	
 	
 }
@@ -195,6 +195,7 @@ footer .fab{
 
 #trusted{
 	padding: 5% 0;
+	background: #FFFFFF;
 }
 
 #trusted h1{
@@ -218,7 +219,7 @@ footer .fab{
 }
 
 #trusted i{
-	color:#FBD050;
+	color:#20BFD0;
 	font-size: 50px;
 	padding-bottom: 5%;
 	
